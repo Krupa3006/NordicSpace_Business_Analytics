@@ -1,0 +1,19 @@
+Data-Driven Decision Making (DDDM)
+
+This project uses data-driven decision making by analyzing booking, pricing, and customer behavior data to support business decisions.
+
+The analysis was performed using Python in Anaconda Jupyter Notebook, and the final script was converted into a .py file for structured submission.
+
+Key decisions based on data:
+
+1. Helsinki shows highest revenue performance, so expansion of premium storage capacity is recommended.
+
+2. Revenue trends show increased demand during summer months, so marketing campaigns should be increased before peak season.
+
+3. Turku shows lower performance compared to other cities, suggesting pricing and promotional strategy should be reviewed.
+
+4. Correlation analysis shows a positive relationship between bookings and revenue, confirming that increasing bookings will directly improve revenue.
+
+5. Repeat customer rate is around 50%, indicating strong customer retention and opportunity to expand loyalty programs.
+
+These insights demonstrate how data is used to guide strategic and operational decisions.
