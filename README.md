@@ -2,13 +2,13 @@
 ## Dashboard Preview
 
 ### Executive Dashboard
-![Executive Dashboard](Nordic space storage oy_1.jpeg)
+![Executive Dashboard](./Nordic%20space%20storage%20oy_1.jpeg)
 
 ### Performance Control Center
-![Performance Dashboard](Nordic Performance Control Center_2.jpeg)
+![Performance Dashboard](./Nordic%20Performance%20Control%20Center_2.jpeg)
 
 ### Strategic Insights
-![Insights Dashboard](Nordic Strategic Insights Center_3.jpeg)
+![Insights Dashboard](./Nordic%20Strategic%20Insights%20Center_3.jpeg)
 ## Overview
 This project demonstrates an end-to-end business analytics workflow using Python and Power BI.  
 It simulates a storage company environment to analyze business performance and support data-driven decision-making.
